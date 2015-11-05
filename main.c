@@ -2,5 +2,11 @@
 
 int main()
 {
-    return 0;
+    int i, j, ret;
+
+    i = 3;
+    j = 5;
+    ret = i + j;
+
+    return ret;
 }
