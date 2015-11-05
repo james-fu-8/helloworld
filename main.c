@@ -6,8 +6,8 @@ int main()
 
     i = 3;
     j = 5;
-    k = 7;
-    ret = i + j + k;
+    k = 8;
+    ret = i + j - k;
 
     return ret;
 }
