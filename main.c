@@ -2,11 +2,12 @@
 
 int main()
 {
-    int i, j, ret;
+    int i, j, k， ret;
 
     i = 3;
     j = 5;
-    ret = i + j;
+    k = 7;
+    ret = i + j + k;
 
     return ret;
 }
